@@ -1,0 +1,8 @@
+{
+  "name": "npx-github",
+  "version": "1.0.0",
+  "bin": "source/index.js",
+  "repository": "https://github.com/k15a/npx-github",
+  "author": "Konstantin Pschera <me@kons.ch>",
+  "license": "MIT"
+}
